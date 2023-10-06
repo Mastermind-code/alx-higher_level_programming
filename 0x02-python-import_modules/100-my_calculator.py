@@ -1,6 +1,7 @@
 #!/bin/python3
 
 if __name__ == "__main__":
+    """takes arguments and Print the sum, difference, multiple and quotient"""
     import sys
     from calculator_1 import add, sub, mul, div
 
