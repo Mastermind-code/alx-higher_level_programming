@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 
 if __name__ == "__main__":
     """takes arguments and Print the sum, difference, multiple and quotient"""
